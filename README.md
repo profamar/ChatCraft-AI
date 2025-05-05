@@ -37,3 +37,12 @@ Para trabalhar com os projetos deste repositório, você precisará de:
 - Credenciais para CRMs (**Salesforce**, **HubSpot**, **RD Station**)
 - Acesso à **Zendesk Suite** (plano Ultimate recomendado)
 
+### Exemplos de Projetos
+-WhatsApp Bot: Um chatbot para WhatsApp integrado com HubSpot, usando IA generativa para respostas dinâmicas.
+-Zendesk Automation: Configuração de automações omnichannel com Answer Bot e Flow Builder.
+-NLP Experiment: Treinamento de intenções com Rasa para atendimento automatizado.
+
+### Licença
+## Este projeto está licenciado sob a MIT License.
+
+## Construa o futuro da conversação com IA no ChatCraft-AI!
