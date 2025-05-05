@@ -42,7 +42,7 @@ Para trabalhar com os projetos deste repositório, você precisará de:
 -Zendesk Automation: Configuração de automações omnichannel com Answer Bot e Flow Builder.
 -NLP Experiment: Treinamento de intenções com Rasa para atendimento automatizado.
 
-### Licença
-## Este projeto está licenciado sob a MIT License.
+## Licença
+### Este projeto está licenciado sob a MIT License.
 
-## Construa o futuro da conversação com IA no ChatCraft-AI!
+### Construa o futuro da conversação com IA no ChatCraft-AI!
