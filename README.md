@@ -42,7 +42,7 @@ Para trabalhar com os projetos deste repositório, você precisará de:
 -Zendesk Automation: Configuração de automações omnichannel com Answer Bot e Flow Builder.
 -NLP Experiment: Treinamento de intenções com Rasa para atendimento automatizado.
 
-### Formação e Competências Essenciais para Especialistas em Processamento de Linguagem Natural (PNL)"
+## Formação e Competências Essenciais para Especialistas em Processamento de Linguagem Natural (PNL)
 
 ## Licença
 ### Este projeto está licenciado sob a MIT License.
