@@ -45,39 +45,3 @@ Para trabalhar com os projetos deste repositório, você precisará de:
 git clone https://github.com/<seu-usuario>/ChatCraft-AI.git
 cd ChatCraft-AI
 
-## Configure o ambiente:
-# Para projetos Python:
-python -m venv venv
-source venv/bin/activate  # Linux/Mac
-venv\Scripts\activate     # Windows
-pip install -r requirements.txt
-
-# Para projetos Node.js:
-npm install
-
-## Configure as APIs e credenciais:
-Adicione suas chaves de API (WhatsApp, Telegram, CRMs, Zendesk) em um arquivo .env (modelo em /scripts/.env.example).
-Siga as instruções específicas em cada pasta de projeto.
-Como Contribuir
-Quer ajudar a melhorar o ChatCraft-AI? Siga estes passos:
-- Faça um fork do repositório
-- Crie uma branch para sua feature:
-git checkout -b minha-feature
-- Commit suas alterações:
-git commit -m "Adiciona nova feature"
-- Envie para o repositório remoto:
-git push origin minha-feature
-- Abra um Pull Request com uma descrição clara do que foi feito.
-Por favor, siga nosso Guia de Contribuição e respeite o Código de Conduta.
-Exemplos de Projetos
-- WhatsApp Bot: Um chatbot para WhatsApp integrado com HubSpot, usando IA generativa para respostas dinâmicas.
-- Zendesk Automation: Configuração de automações omnichannel com Answer Bot e Flow Builder.
-- NLP Experiment: Treinamento de intenções com Rasa para atendimento automatizado.
-Licença
-Este projeto está licenciado sob a MIT License.
-Contato
-Para dúvidas ou sugestões, abra uma issue ou entre em contato via seu-email@exemplo.com.
-Construa o futuro da conversação com IA no ChatCraft-AI!
-
-
-
