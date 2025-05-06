@@ -7,7 +7,7 @@ Bem-vindo ao ChatCraft-AI, um repositório dedicado ao desenvolvimento, implanta
 - Integração com CRMs e plataformas de mensageria
 - Experimentos com Processamento de Linguagem Natural (NLP) e fluxos conversacionais
 
-![Descrição da imagem](https://link-para-imagem.com/imagem.png)
+![Descrição da imagem](https://github.com/profamar/ChatCraft-AI/blob/main/ChatGPT%20Image%2016%20de%20abr.%20de%202025%2C%2001_43_04.png)
 
 # Objetivo
 
