@@ -7,6 +7,8 @@ Bem-vindo ao ChatCraft-AI, um repositório dedicado ao desenvolvimento, implanta
 - Integração com CRMs e plataformas de mensageria
 - Experimentos com Processamento de Linguagem Natural (NLP) e fluxos conversacionais
 
+![Descrição da imagem](https://link-para-imagem.com/imagem.png)
+
 # Objetivo
 
 O ChatCraft-AI é um hub para profissionais e entusiastas que desejam explorar e implementar soluções de IA conversacional. Os projetos aqui incluem:
